@@ -83,7 +83,6 @@ def playAgain():
 
     print('Do you want to play again? (yes or no)')
     return input().lower().startswith('y')
-
  
 print('H A N G M A N')
 missedLetters = ''
